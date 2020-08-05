@@ -1,0 +1,7 @@
+name: test artifact
+on: push
+
+jobs:
+
+  create_txt:
+  
