@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $INPUT_MY_NAME, this is an other test"
+echo "echo Hello world my name is $INPUT_MY_NAME, this is an other test" > /github/home/test
